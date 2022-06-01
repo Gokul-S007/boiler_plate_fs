@@ -1,15 +1,14 @@
-# CRUD_Application_Node
-In this project, we are going to create node CRUD application with express and mongodb.
+## Simple User Management System 
+It is Made up of ejs,axios,node and mangodb.Crud Operations are Performed and the design pattern is MVC. 
 
-#### To Run this project Clone it and install modules using
-```
-npm install
-```
 
-Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
-That's it. You are ready to go. To execute this project just type
-```
-npm start
-```
 
-Enjoy...!
+
+
+## Steps
+
+ - [Steps](https://whimsical.com/fs-HynPMoovPZf6gWj81NL3xU)
+ 
+
+
+
